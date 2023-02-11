@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores iste assumenda autem quidem ullam sit dolore tempore perspiciatis accusantium. Omnis repudiandae velit, quaerat voluptatum neque recusandae labore suscipit vero fuga earum! Odit dolore dicta debitis. Aliquam cupiditate officia, sed maiores doloribus inventore iusto debitis atque ut, quas maxime, aperiam pariatur.",
+            "image": "/src/assets/svg/hero_pages.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores iste assumenda autem quidem ullam sit dolore tempore perspiciatis accusantium. Omnis repudiandae velit, quaerat voluptatum neque recusandae labore suscipit vero fuga earum! Odit dolore dicta debitis. Aliquam cupiditate officia, sed maiores doloribus inventore iusto debitis atque ut, quas maxime, aperiam pariatur.",
+            "image": "/src/assets/svg/hero_pages.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores iste assumenda autem quidem ullam sit dolore tempore perspiciatis accusantium. Omnis repudiandae velit, quaerat voluptatum neque recusandae labore suscipit vero fuga earum! Odit dolore dicta debitis. Aliquam cupiditate officia, sed maiores doloribus inventore iusto debitis atque ut, quas maxime, aperiam pariatur.",
+            "image": "/src/assets/svg/hero_pages.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores iste assumenda autem quidem ullam sit dolore tempore perspiciatis accusantium. Omnis repudiandae velit, quaerat voluptatum neque recusandae labore suscipit vero fuga earum! Odit dolore dicta debitis. Aliquam cupiditate officia, sed maiores doloribus inventore iusto debitis atque ut, quas maxime, aperiam pariatur.",
+            "image": "/src/assets/svg/hero_pages.svg"
+        }
+    ]
+}
